@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+html, body {
+    font-family: 'Montserrat', sans-serif;
+    background: #ffffff;
+    color: rgba(0, 0, 0, 0.87);
+}
+p {
+    font-size: 18px;
+    line-height: 28px;
+}
+section {
+    margin-bottom: 85px;
+}
+.container {
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 100px;
+}
+.header {
+    padding: 50px 0;
+    background: #424a57;
+}
